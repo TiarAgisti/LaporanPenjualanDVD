@@ -36,9 +36,6 @@ Public Class FrmListPengeluaranKas
         dgv.Columns(4).Width = 100
     End Sub
 
-
-   
-
     Private Sub FrmListPengeluaranKas_Load(sender As Object, e As EventArgs) Handles Me.Load
 
     End Sub
